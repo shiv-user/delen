@@ -1,2 +1,5 @@
 # delen
-Footer
+
+
+The common footer that can be used anywhere.
+
